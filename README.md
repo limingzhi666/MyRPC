@@ -42,7 +42,7 @@ client 调用远程方法-> request序列化 -> 协议编码 -> 网络传输-> �
 
 - [version8版本](#8.MyRPC版本8)： 跨语言的RPC通信（protobuf）**（待实现）**
 
-- version9版本：继承spring通过注解暴露接口
+- [version9版本](#8.MyRPC版本9)：通过spring注解暴露接口
 
   
 
